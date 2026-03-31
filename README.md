@@ -1,2 +1,3 @@
 # Travaux_stages
-Je vais réaliser ici la majorité de mes travaux de stage, ainsi que travailler à l’amélioration de mon niveau en programmation.
+Vous verrez ci joint mon l'exercice sur lequel je bosse pour les revisions je travail dans mon dossiers htdocs de xampp la j'essaie de reproduire le projet du TD mais je suis un peu confut car le prof de l'ecole nous a donner un example de CRUD a modifier pour tout ce qui est en rapport avec du PHP et la manipulation de la base de donnees , j'essaie de comprendre le CRUD mais cest un peu complexe et j'avoue je m'embrouille beaucoup . Concernant la realisation de la page COMMANDES . Je veisn par ce premier push vous presenter mon evolution et si il y a lieu de me donner certains cours, conseils , explication ou approche sa m'aidera beaucoup .
+
